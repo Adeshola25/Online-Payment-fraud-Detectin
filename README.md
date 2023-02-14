@@ -21,3 +21,5 @@ Deployment: The final step is to deploy the model in the bank's systems to start
 Problem faced:
 
 Imbalanced data: Online fraud is often a rare event, resulting in imbalanced data where the number of non-fraudulent transactions significantly outweighs the number of fraudulent transactions. This can lead to models that have high accuracy but poor recall for fraudulent transactions.
+
+NOTE : In case file is too large to view , kindly  use https://nbviewer.org
